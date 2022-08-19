@@ -1,6 +1,7 @@
 # Text Mining Analytic
 
 #Aim
+
 It is process of identifying pattens & extracting useful insights from unstructural text data. By using NLTK.
 
 #Objective
