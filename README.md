@@ -6,7 +6,7 @@ It is the process of identifying patterns and extracting useful insights from un
 
 #Objective
 
-It is the process of examining a large collection of documents to discover new information or help answer specific research questions. first mining identifies facts, relationships, and assertions that would otherwise remain buried in the mass of textual big data.
+It is the process of examining a large collection of documents to discover new information or help answer specific research questions. First mining identifies facts, relationships, and assertions that would otherwise remain buried in the mass of textual big data.
 
 #Methodology
 
